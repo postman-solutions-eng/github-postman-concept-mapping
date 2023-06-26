@@ -1,7 +1,3 @@
-<img width="200" src="https://content.pstmn.io/754101a4-01d8-4f68-93bf-9f5ecab74234/cG9zdG1hbmF1dCtvY3RvbmF1dC5wbmc=">
-
-:wave: I am an Open Source Enthusiast, originally working for GitHub, now working for Postman, who is interested in all things in all things IssueOps, integrations, CI/CD and API design. When I started at Postman, I noticed that it is actually quite similar to GitHub - just for APIs and not for code. However, some similar concepts had different names, so we created this table to make adoption easier and use my two favorite platforms together.
-
 ### Postman vs GitHub Terms / Concepts
 
 | Postman Concept | GitHub Equivalent Concept | Remarks |
@@ -44,9 +40,3 @@
 | [Audit Log](https://learning.postman.com/docs/administration/audit-logs/) | [Audit log](https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise) (enterprise level)[Audit log](https://docs.github.com/en/enterprise-cloud@latest/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/reviewing-the-audit-log-for-your-organization) (org level) |  |
 | [Change log](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/changelog-and-restoring-collections/#contents) | [File history](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file#viewing-the-line-by-line-revision-history-for-a-file) | For [APIs and collections managed with Git](https://learning.postman.com/docs/designing-and-developing-your-api/versioning-an-api/versioning-an-api-overview/), the GitHub changelog is displayed |
 | [Token scanning](https://learning.postman.com/docs/administration/token-scanner/) | [Secret scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning) |  |
-
-### Postman Certifications
-
-<img src="https://api.badgr.io/public/assertions/hWi_1FSLQwKwdFMkRe-KnQ/image" alt="Take%20part%20in%20the%2030%20days%20of%20Postman%20coding%20challenge!" width="200">
-
-[Take the challenge yourself!](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview) There is also a [15 Days challenge specialized for testers](https://www.postman.com/postman/workspace/15-days-of-postman-for-testers/overview) 💪
